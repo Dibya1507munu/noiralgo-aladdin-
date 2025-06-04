@@ -1,1 +1,3 @@
-# noiralgo-aladdin-
+# Noiralgo Aladdin
+
+Deployed on Vercel.
